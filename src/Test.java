@@ -13,6 +13,7 @@ public class Test {
 		String name ="Soumya";
 		int a = 100;
 		int b =300;
+		 int sum = a+b;
 		System.out.println(name);
 		System.out.println(a+a);
 	}
