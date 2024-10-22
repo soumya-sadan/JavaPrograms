@@ -6,7 +6,11 @@ public class Test {
 		display();
 		
 	}
-
+  public void test()
+	{
+System.out.println("HHi");
+	}
+	
 	
 	public static void display()
 	{
