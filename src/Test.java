@@ -11,6 +11,8 @@ public class Test {
 	public static void display()
 	{
 		String name ="Soumya";
+		int a = 100;
 		System.out.println(name);
+		System.out.println(a+a);
 	}
 }
